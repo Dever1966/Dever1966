@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
-<p align="center"><img src="https://secure.gravatar.com/avatar/28a7daa1faf4f3d46d0279a0283456ea"></p>
+<p align="center">
+  <img src="https://secure.gravatar.com/avatar/28a7daa1faf4f3d46d0279a0283456ea#2">
+</p>
 <h3 align="center">A passionate frontend developer from Russia</h3>
 
 - 🔭 I’m currently working on **secret project**
